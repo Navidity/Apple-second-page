@@ -1,0 +1,8 @@
+/v/iphone-14-pro/c/images/overview/dynamic-island/dynamic_hw__wx47n1mguoi6_small.png, /v/iphone-14-pro/c/images/overview/dynamic-island/dynamic_hw__wx47n1mguoi6_small_2x.png 2x
+
+
+https://www.apple.com/v/iphone-14-pro/c/built/scripts/main.built.js
+
+/v/iphone-14-pro/c/images/overview/dynamic-island/dynamic_hw__wx47n1mguoi6_small_2x.png
+
+https://www.apple.com/v/iphone-14-pro/c/images/overview/dynamic-island/dynamic_hw__wx47n1mguoi6_small_2x.png
